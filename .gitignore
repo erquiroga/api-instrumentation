@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (if not using in-project venv)
+.env/
+.venv/
+venv/
+ENV/
+env/
+
+# Poetry lock file (optional, only if you want to ignore it — usually you keep it)
+# poetry.lock
+
+# PyCharm project files
+.idea/
+
+# VSCode project files
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# dotenv environment variables file
+.env
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
