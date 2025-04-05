@@ -14,7 +14,7 @@ env/
 # poetry.lock
 
 # PyCharm project files
-.idea/
+/.idea/
 
 # VSCode project files
 .vscode/
